@@ -1,0 +1,19 @@
+{
+  "name": "modular-encrypt",
+  "version": "1.0.0",
+  "description": "a modular recursive encryption packet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vidocco/modular-encrypt.git"
+  },
+  "author": "vidocco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vidocco/modular-encrypt/issues"
+  },
+  "homepage": "https://github.com/vidocco/modular-encrypt#readme"
+}
